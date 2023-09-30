@@ -1,0 +1,13 @@
+.top-bar {
+    display: flex;
+    list-style: none;
+    flex-direction: row;
+    padding: 10px;
+    color: #FAF9F6;
+    justify-content: space-around;
+    flex: 1;
+}
+
+.top-bar li {
+    margin-right: 10px;
+}

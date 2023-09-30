@@ -1,0 +1,23 @@
+.bottom-main {
+    display: flex;
+    height: 4rem;
+    /* border: 1px solid blue; */
+    justify-content: space-around;
+    color: #FAF9F6;
+    padding: 20px;
+}
+
+.bottom-title {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+ul {
+    margin-top: 0;
+    display: flex;
+    list-style: none;
+    flex-direction: column;
+    padding: 10px;
+    color: #FAF9F6;
+}
